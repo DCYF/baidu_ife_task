@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	padding: 20px;
+}
+.task_03 {
+	
+    background-color: #eee;
+    border:1px solid #999;
+    overflow: auto;
+	
+}
+.left {
+    width: 180px;
+    border: 1px solid #999;
+    float: left;
+    margin-left: 20px;
+    background-color: white;
+	margin-top: 20px;
+	padding: 20px;
+}
+.mid {
+	border: 1px solid #999;
+    margin-left: 260px;
+    margin-right: 180px;
+    margin-top: 20px;
+    background-color: white;
+	padding: 20px;
+	overflow: auto;
+}
+.right {
+	width: 100px;
+    border: 1px solid #999;
+	float: right;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border: 1px solid #999;
+	background-color: white;
+	padding: 20px;
+	text-align: center;
+}
+.teamlogo img {
+	float: left;
+}
+.teamlogo span {
+	position:relative;
+}
